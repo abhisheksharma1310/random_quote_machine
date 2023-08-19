@@ -1,6 +1,7 @@
 # Random Quote Machine - React App
 
-<iframe src="https://52dh47.csb.app/" width="90%"></iframe>
+<iframe src="https://52dh47.csb.app/" width="600" height="400"></iframe>
+
 
 This project is a Random Quote Machine built using React.js. The app displays random quotes along with their authors and provides the functionality to fetch new quotes and share them on Twitter and Tumbler.
 
