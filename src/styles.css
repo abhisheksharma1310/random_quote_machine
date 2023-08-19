@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+#quote-box {
+  width: 450px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+#quote-box .quote-text {
+  padding: 0 10px;
+  text-align: center;
+  font-size: 28px;
+  word-wrap: wrap;
+}
+#quote-box .quote-author {
+  padding: 10px 10px 0 10px;
+  text-align: end;
+  font-size: 16px;
+}
+.button-group {
+  padding: 20px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+}
+.share-button {
+  display: flex;
+  gap: 5px;
+  font-size: 19px;
+}
+.button {
+  color: #fff;
+}
+#tweet-quote,
+#tumbler-quote {
+  padding: 10px;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+}
+#new-quote {
+  padding: 10px;
+  border-radius: 3px;
+  border: none;
+  font-size: 13.8px;
+  cursor: pointer;
+}
+#wrapper {
+  width: 450px;
+  height: 50px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer,
+a {
+  color: #fff;
+  font-size: 12.8px;
+  text-decoration: none;
+}
