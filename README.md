@@ -1,9 +1,12 @@
 # Random Quote Machine - React App
 
-### Click [here](https://52dh47.csb.app/) 👆 for a live demo of this web app. 
-
+<p align="center">
+  <a href="https://52dh47.csb.app/">
+<img src="quote_machine.jpg" width="90%"></a></p>
 
 This project is a Random Quote Machine built using React.js. The app displays random quotes along with their authors and provides the functionality to fetch new quotes and share them on Twitter and Tumbler.
+
+### Click [here](https://52dh47.csb.app/) 👆 for a live demo of this web app. 
 
 ## Table of Contents
 
@@ -13,6 +16,7 @@ This project is a Random Quote Machine built using React.js. The app displays ra
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 ## Demo
@@ -43,7 +47,6 @@ To run the Random Quote Machine locally, follow these steps:
 - React.js
 - HTML
 - CSS
-- [freeCodeCamp Test Suite](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) for testing compliance with user stories.
 
 ## Contributing
 
@@ -55,7 +58,16 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a pull request.
 
+## Acknowledgements
+
+- FreeCodeCamp for providing the project requirements and test suite.
+- CodeSandbox for providing the development environment.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
+_This project is a solution for the FreeCodeCamp "Build a Quote Machine" project._
